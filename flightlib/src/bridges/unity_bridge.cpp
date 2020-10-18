@@ -1,5 +1,7 @@
 #include "flightlib/bridges/unity_bridge.hpp"
 
+#include <opencv2/imgproc/types_c.h>
+
 namespace flightlib {
 
 // constructor
